@@ -1,0 +1,9 @@
+name = "line-oa-openrouter-it-support"
+main = "src/worker.js"
+compatibility_date = "2026-05-04"
+
+[vars]
+OPENROUTER_MODEL = "openrouter/free"
+OPENROUTER_APP_NAME = "LINE OA IT Support"
+SUPPORT_TEAM_CONTACT = "ติดต่อ IT Support พร้อม screenshot, ชื่อผู้ใช้, อุปกรณ์ และเวลาที่พบปัญหา"
+MAX_AI_WAIT_MS = "45000"
